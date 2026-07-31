@@ -25,4 +25,4 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-sable-seven-89.vercel.app/api/top-langs/?username=QuinTekno&layout=compact&theme=neon&langs_count=8&card_width=320&border_radius=20&border_color=a2fa00" />
 </a>
-
+<img src="https://gitlyy.vercel.app/api/languages?username=QuinTekno&layout=donut&hide_border=true"/>
